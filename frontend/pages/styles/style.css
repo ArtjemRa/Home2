@@ -1,0 +1,37 @@
+@import url(main.css);
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 400;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+q,
+h3,
+.gr{
+color: green;
+}
+
+.ge{
+  color: greenyellow;
+}
+i,
+.pi{
+  color: pink;
+}
+
+ins,
+time,
+.bl{
+  color: blue;
+}
+ del,
+.bv{
+  color: blueviolet;
+}
+
+
